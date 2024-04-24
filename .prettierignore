@@ -1,0 +1,6 @@
+/.ebextensions/**
+/.idea/**
+/bin/**
+/node_modules/**
+**/*.md
+*.html
